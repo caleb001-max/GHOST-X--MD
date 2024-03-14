@@ -19,7 +19,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,Secktor>',
+    use: '<Hii,I'm a 👻Ghost>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -114,14 +114,14 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
+        let { data } = await axios.get('https://api.github.com/repos/Cyberghost0083/GHOST-X--MD')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* citel-x.herokuapp.com/repo
-*Group:* citel-x.herokuapp.com/support
+*🍁 Repo:* https://github.com/Cyberghost0083/GHOST-X--MD
+*Group:* https://whatsapp.com/channel/0029VaPZWbY1iUxVVRIIOm0D
 *Deploy Your Own:*-
-citel-x.herokuapp.com`
+https://github.com/Cyberghost0083/GHOST-X--MD`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -129,7 +129,7 @@ citel-x.herokuapp.com`
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "Ghost-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -163,7 +163,7 @@ cmd({
 *🚦Uptime:* ${runtime(process.uptime())}
 *🕸Version:* 0.0.7
 *👤Owner:*  ${Config.ownername}
-*Powered by ${tlang().title}*
+*Powered by Ghost..*
 `;
         let buttonMessaged = {
             image: {
@@ -201,7 +201,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available themes in Secktor*"
-str+=`1. SECKTOR\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. ZEROTWO\n14. Eren Jeager(Coming Soon)\n\n these are the themes of Secktor Userbot.\_Reply ${prefix}setvar THEME:ZEROTWO`
+str+=`1. GHOST\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. ZEROTWO\n14. Eren Jeager(Coming Soon)\n\n these are the themes of Secktor Userbot.\_Reply ${prefix}setvar THEME:GHOST`
 return citel.reply(str)
     
 }
