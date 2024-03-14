@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://wa.me/2347045035241">
-    <img alt="STAR-MD" height="100" src=https://i.imgur.com/2FMJdpQ.jpeg">
+    <img alt="STAR-MD" height="600" src=https://i.imgur.com/2FMJdpQ.jpeg">
   </a>
 <h1 align="center"> 💫GHOST(X)-ᎷᎠ💫
 </p>
