@@ -50,13 +50,15 @@
 ➤FORK THE REPOSITORY (Repo) 
     <br>
 <a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="STAR" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ➤  GET SESSION  ID FOR 👻GHOST-MD👻
   
 <a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 
 
 
