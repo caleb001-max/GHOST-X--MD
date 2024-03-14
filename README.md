@@ -9,7 +9,7 @@
   <a href="https://wa.me/2347045035241">
     <img alt="STAR-MD" height="450" src=https://i.imgur.com/2FMJdpQ.jpeg">
   </a>
-<h1 align="center"> 👻ᘜᕼOՏT(᙭)-ᗰᗪ👻
+<h1 align="center"> 👻ᏀᎻϴՏͲ-ᎷᎠ👻
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
@@ -49,14 +49,13 @@
 
 ❏FORK THE REPOSITORY (Repo) 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
     
 <a href="https://github.com/Cyberghost0083/GHOST-X--MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK GHOST-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ❏  GET SESSION  ID FOR 👻GHOST-MD👻
   
@@ -68,9 +67,9 @@
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 𖣘ᎠᎬᏢᏞϴᎽᎷᎬΝͲ ᎷᎬͲᎻϴᎠՏ𖣘
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 ❏ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
 
 
