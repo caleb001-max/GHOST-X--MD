@@ -36,7 +36,7 @@ cmd({
             desc: "text to speech.",
             category: "downloader",
             filename: __filename,
-            use: '<Hii,this is Secktor>',
+            use: '<Hii,this is a Ghost>',
         },
         async(Void, citel, text) => {
             if (!text) return citel.reply('Please give me Sentence to change into audio.')
@@ -179,6 +179,7 @@ cmd({
 │⿻ *Viewers:* ${anu.views}
 │⿻ *Uploaded:* ${anu.ago}
 │⿻ *Author:* ${anu.author.name}
+┃🜲Creator:-Cyber-Ghost
 ╰────────────────◆
 ⦿ *Url* : ${anu.url}
 `,
@@ -233,7 +234,7 @@ cmd({
                     headerType: 4,
                     contextInfo: {
                         externalAdReply: {
-                            title: `Here it is✨`,
+                            title: `Cyber-ghost👻`,
                             body: `${Config.ownername}`,
                             thumbnail: log0,
                             mediaType: 2,
@@ -301,7 +302,7 @@ cmd({
             if (infoYt.videoDetails.lengthSeconds >= videotime) return citel.reply(`❌ Video file too big!`);
             let titleYt = infoYt.videoDetails.title;
             let randomName = getRandom(".mp3");
-            citel.reply('*Downloadig:* '+titleYt)
+            citel.reply('*Downloading:* '+titleYt)
             const stream = ytdl(anu.url, {
                     filter: (info) => info.audioBitrate == 160 || info.audioBitrate == 128,
                 })
