@@ -57,7 +57,7 @@
 
 
 
-❏  ##GET SESSION  ID FOR 👻GHOST-MD👻
+##❏GET SESSION  ID FOR 👻GHOST-MD👻
   
 
 <a href="https://ghostx-md-6894aba0baea.herokuapp.com/" target="_blank">
