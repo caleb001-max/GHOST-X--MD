@@ -44,15 +44,15 @@
   [`ℹ️Contact Owner`](https://wa.me/+2347045035241)
 
 
- [`📡Credits`](https://github.com/excelottah6)
-## 💫𝐒𝐄𝐓 𝐔𝐏 𝐅𝐎𝐑 𝐒𝐓𝐀𝐑-𝐌𝐃💫
+ 
+## 👻𝐒𝐄𝐓 𝐔𝐏 𝐅𝐎𝐑 𝐆𝐇𝐎𝐒𝐓-(𝐗)-𝐌𝐃👻
 
 ➤FORK THE REPOSITORY (Repo) 
     <br>
 <a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="STAR" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-➤  GET SESSION  ID FOR  ⭐STAR-MD⭐
+➤  GET SESSION  ID FOR  👻STAR-MD👻
   
   
 
@@ -106,18 +106,12 @@ If You don't have a account in Heroku. Create a account.
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 
-[`📡Credits`](https://telegra.ph/STAR-MD-Bot-02-26-2)
+
 
 *******************************************
-🇴 🇼 🇳 🇪 🇷  🇮 🇳 🇫  🇴 
- 
-[![EXCEL](https://i.imgur.com/4Z8BDHx.png)](https://wa.me/2347045035241)
 
 
-<img src="https://i.imgur.com/FX2S9eI.jpg" alt="Image"> 
-
-
-<h1 align="center"> ⭐STAR-MD ⭐
+<h1 align="center"> 👻𝐆𝐇𝐎𝐒𝐓-𝐌𝐃👻
 </p></p>
 
 Excel ©2024
