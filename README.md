@@ -1,7 +1,7 @@
 ``GHOST(X)-MD``
 
 [`ℹ️IN CASE OF HELP CONCERNING DEPLOYMENT
-`](https://wa.me/+2347045035241)
+`](https://wa.me/+2349065265516)
 
 
 
@@ -20,8 +20,8 @@
    
  
 <p align="center">
-<a href='https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08' 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08" target="_blank">
+<a href='https://chat.whatsapp.com/Jqn4yvjHQiC2qU8Uy8Zb4f' 
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/EHM5M1N7w9P5oJHZF49xtj" target="_blank">
 
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -35,17 +35,17 @@
 
 
  </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaTpgEr0wajx2dzIp00b" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
 
  
-  [`ℹ️Contact Owner`](https://wa.me/+2347045035241)
+  [`ℹ️Contact Owner`](https://wa.me/+2349065265516)
 
 
  
-## 👻𝐒𝐄𝐓 𝐔𝐏 𝐅𝐎𝐑 𝐆𝐇𝐎𝐒𝐓-(𝐗)-𝐌𝐃👻
+## 👻𝐒𝐄𝐓 𝐔𝐏 𝐅𝐎𝐑 𝐆𝐇𝐎𝐒𝐓-𝐌𝐃👻
 
 ➤FORK THE REPOSITORY (Repo) 
     <br>
@@ -103,7 +103,7 @@ If You don't have a account in Heroku. Create a account.
   Now Deploy
     <br>
 
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Cyberghost0083/GHOST-X--MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
 
 
 
