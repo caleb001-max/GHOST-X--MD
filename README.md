@@ -57,6 +57,7 @@
 <a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
