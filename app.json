@@ -1,6 +1,6 @@
 {
   "name": "GHOST-MD",
-  "description": "A Whatsapp md bot built by Excel to make experience better",
+  "description": "A Whatsapp md bot built by Cyber-ghost to make experience better",
   "logo": "https://i.imgur.com/2FMJdpQ.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "STAR", "STAR Bot", "STAR","STAR-MD","themes bot","multi device","baileys","Excel"],
   "success_url": "/",
@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME", 
-      "value": "Excel"
+      "value": "Cyber-ghost"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -16,7 +16,7 @@
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
-       "required" :false
+       "required" :true
        },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.imgur.com/D0ZPh8f.jpg"
+     "value": "https://i.imgur.com/2FMJdpQ.jpeg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -66,11 +66,11 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "*"
+      "value": "/"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2347045035241"
+       "value": "2349065265516"
  },          
    "SESSION_ID": {
     "description": " PUT YOURE SESSION ID HERE.",
@@ -101,11 +101,11 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "EXCEL"
+    "value": "Cyber-ghost"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "STAR-MD"
+    "value": "Ghost"
   },
   "heroku": {
     "description": "Weather it is on heroku or not", 
