@@ -57,12 +57,21 @@
 
 
 
+
+
 ❏GET SESSION  ID FOR 👻GHOST-MD👻
   
 
 <a href="https://ghostx-md-6894aba0baea.herokuapp.com/" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
+
+
+
+
+
+
+
 
 
 
