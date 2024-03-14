@@ -9,7 +9,7 @@
   <a href="https://wa.me/2347045035241">
     <img alt="STAR-MD" height="450" src=https://i.imgur.com/2FMJdpQ.jpeg">
   </a>
-<h1 align="center"> 👻ᏀᎻϴՏͲ-ᎷᎠ👻
+<h1 align="center"> 👻GHOST-MD👻
 </p>
       <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
