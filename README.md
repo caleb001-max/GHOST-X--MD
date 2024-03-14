@@ -49,13 +49,12 @@
 
 ❏FORK THE REPOSITORY (Repo) 
 
-    <br>
+    
 <a href="https://github.com/Cyberghost0083/GHOST-X--MD/fork" target="_blank">
   <img src="https://img.shields.io/badge/FORK GHOST-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ❏  GET SESSION  ID FOR 👻GHOST-MD👻
   
@@ -63,7 +62,6 @@
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
 </a>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 
 
