@@ -52,21 +52,12 @@
 <a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="STAR" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-➤  GET SESSION  ID FOR  👻STAR-MD👻
+➤  GET SESSION  ID FOR 👻GHOST-MD👻
   
-  
+<a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
+  <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
 
-<a href="https://r.mtdv.me/EXCEL-MDX"><img src="https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw" width="70" /></a>
-
-<a href='https://star-md-qr.giftedtechnexus.co.ke/' target="_blank"><img alt='SCAN QR-01' src='https://img.shields.io/badge/Scan_qr-01-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=red&color=black'/></a>
-
-<a href='https://star-md-qr-web-xcelsama-e29e85286f3a.herokuapp.com/' target="_blank"><img alt='SCAN QR-02' src='https://img.shields.io/badge/Scan_qr-02-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-<a href='https://replit.com/@HopeAmadi/EXCEL-MD-QR-SCAN-1?v=1/fork' target="_blank"><img alt='SCAN QR-3' src='https://img.shields.io/badge/Scan_qr-03-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
- 
-<a href='https://star-md-qr-excel-64001a3963c7.herokuapp.com/' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-03-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-<a href='https://star-qr-web-02-905f5080602c.herokuapp.com/' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-04-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 
 𖣘ᎠᎬᏢᏞϴᎽᎷᎬΝͲ ᎷᎬͲᎻϴᎠՏ𖣘
