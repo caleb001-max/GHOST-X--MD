@@ -47,12 +47,16 @@
  
 ## 👻𝐒𝐄𝐓 𝐔𝐏 𝐅𝐎𝐑 𝐆𝐇𝐎𝐒𝐓-𝐌𝐃👻
 
-➤FORK THE REPOSITORY (Repo) 
+❏FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Xcelsama/STAR-MD/fork"><img title="STAR" src="https://img.shields.io/badge/FORK STAR-MD?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Cyberghost0083/GHOST-X--MD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK GHOST-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-➤  GET SESSION  ID FOR 👻GHOST-MD👻
+❏  GET SESSION  ID FOR 👻GHOST-MD👻
   
 <a href="https://replit.com/@HopeAmadi/STAR-MD-V2-PAIR-CODE?s=app" target="_blank">
   <img src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
@@ -65,7 +69,7 @@
 
 𖣘ᎠᎬᏢᏞϴᎽᎷᎬΝͲ ᎷᎬͲᎻϴᎠՏ𖣘
 
-❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+❏ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
 
 
  If You don't have a account in Codespace. Create a account.
@@ -78,7 +82,7 @@ Now Deploy
 
 
 
-❍ᗪᗴᑭᒪOY ᗯITᕼ ᖇᗴᑭᒪIT
+❏ᗪᗴᑭᒪOY ᗯITᕼ ᖇᗴᑭᒪIT
 
 If You don't have a account in replit. Create a account.
     <br>
@@ -88,7 +92,7 @@ Now Deploy
     <br>
 <a href="https://replit.com/@HopeAmadi/STAR-MD?s=app" target="_blank"><img alt="DEPLOY" src="https://img.shields.io/badge/DEPLOY-black?color=black&style=for-the-badge&logo=Replit" width="96.35" height="28"></a>
 
-❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
+❏ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
 
 If You don't have a account in Heroku. Create a account.
     <br>
